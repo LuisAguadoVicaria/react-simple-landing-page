@@ -1,7 +1,7 @@
 <h1 align="center">React Simple Landing Page</h1>
 
 <p align="center" >
-  <a href="https://github.com/LuisAguadoVicaria/react-simple-landing-page/">
+  <a href="https://luisaguadovicaria.github.io/react-simple-landing-page/">
     <img height="44px" src="https://github.com/LuisAguadoVicaria/LuisAguadoVicaria/raw/main/proyect-images/live-demo-button.png" alt="live-demo" align="center">
   </a>
 </p>
